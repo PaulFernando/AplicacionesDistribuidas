@@ -1,0 +1,10 @@
+
+module EpnRemoto {
+
+		interface EpnRem
+		{
+		
+		string Saludar(in string nombre);
+	};
+
+};
